@@ -1,14 +1,31 @@
-# Diego Silva Costa
+# Hi, I'm Diego 👋
 
-## Sobre
-Olá, meu nome é **Diego** e tenho uma trajetória profissional diversificada e fascinante. Atualmente, estou em um processo de transição de carreira, partindo da educação física para a tecnologia e programação. Durante minha vida, explorei várias facetas dessa área, como a montagem e manutenção de computadores e a modelagem 3D com Maya, além de ter um interesse genuíno por design.
+I'm a Data Analytics intern transitioning into Data Science and Fraud Analytics, with strong interest in applying data-driven solutions to real-world financial risk problems.
 
-Meu amor pela educação física me ensinou a importância da disciplina, do trabalho em equipe e da resiliência - habilidades que considero extremamente valiosas na minha nova carreira. Acredito que a chave para o sucesso em qualquer empreendimento é o aprendizado contínuo. Por isso, estou comprometido em absorver todo o conhecimento e experiência possível para facilitar minha transição para o setor de tecnologia.
+Currently working with SQL and analytical investigations, I focus on:
 
-Embora ainda esteja no início da minha nova jornada e tenha muito a aprender, estou ansioso para trazer minha perspectiva única e habilidades transferíveis para o mercado de trabalho. Minha meta é combinar minha paixão por tecnologia e minha experiência como educador para trazer uma contribuição inovadora e eficaz para a indústria da tecnologia. 💻
+- Fraud detection analysis
+- Behavioral pattern identification
+- Model evaluation for imbalanced datasets (Recall & F1 focus)
+- Business-oriented interpretation of machine learning metrics
 
-## Conecte-se comigo
-[![Instagram](https://img.shields.io/badge/Instagram-708090?style=for-the-badge&logo=instagram)](https://www.instagram.com/diegoscostapersonal/) 
+## Technical Skills
+- SQL (analytical queries, aggregation, window functions)
+- Python (Pandas, Scikit-Learn)
+- Machine Learning evaluation
+- Model performance metrics (Precision, Recall, F1)
+- Data investigation and business reasoning
+
+## Current Focus
+- Fraud detection modeling
+- Risk-based segmentation
+- Performance monitoring for imbalanced classification
+- Translating technical findings into business insights
+
+Always learning, building, and improving through practical case studies.
+
+
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-258888?style=for-the-badge&logo=whatsapp)](https://wa.me/message/FVGZ4F6JRZ7XA1)
 
 ## GitHub Status
